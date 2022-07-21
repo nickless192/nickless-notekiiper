@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickless192/nickless-notekiiper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nickless192/nickless-notekiiper/issues"
+  },
+  "homepage": "https://github.com/nickless192/nickless-notekiiper#readme"
 }
